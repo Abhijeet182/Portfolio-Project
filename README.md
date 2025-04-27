@@ -72,3 +72,9 @@ For freelance opportunities, collaborations, or project discussions:
 Thanks to open source tools, the amazing Angular community, and the relentless spirit of continuous learning! 🚀
 
 ---
+
+## 🏅 Badges
+
+![Angular](https://img.shields.io/badge/Angular-18-red)  
+![Deployed on Azure](https://img.shields.io/badge/Azure-Deployed-blue)  
+![License MIT](https://img.shields.io/badge/License-MIT-green)
